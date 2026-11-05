@@ -9,8 +9,7 @@
 * **IDS & Monitoreo de Red:** Suricata (Kali Linux), Wireshark (Análisis de paquetes / PCAP).
 * **Supervisión de Infraestructura:** Zabbix.
 * **Sistemas Operativos:** Ubuntu Server, Kali Linux, Windows 11.
-* **Desarrollo & Bases de Datos:** Node.js, Express, MySQL, JavaScript.
-
+  
 ---
 
 ## 📂 Proyectos Destacados
