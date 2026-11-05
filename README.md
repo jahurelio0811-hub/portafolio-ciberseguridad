@@ -1,4 +1,4 @@
-# 🛡️ Portafolio de Ciberseguridad & SOC — José Aurelio Hernández
+# 🛡️ Portafolio de Ciberseguridad & SOC — José Aurelio Hernández Mendoza
 
 ¡Bienvenido! Soy estudiante de **Ingeniería en Sistemas Computacionales** en el Instituto Tecnológico de San Luis Potosí (último semestre), enfocado en **Ciberseguridad** y **Operaciones de Seguridad (SOC)**.
 
