@@ -49,4 +49,4 @@
 ## 📬 Contacto & Enlaces
 * **Correo:** Jahurelio0811@gmail.com
 * **Ubicación:** San Luis Potosí, México
-* **Portafolio Web:** [jahurelio0811-hub.github.io/portafolio-ciberseguridad](https://jahurelio0811-hub.github.io/portafolio-ciberseguridad/)
+
