@@ -1,6 +1,6 @@
 # Portafolio de Ciberseguridad & SOC — José Aurelio Hernández Mendoza
 
-¡Bienvenido! Soy estudiante del último semestre de **Ingeniería en Sistemas Computacionales** en el Instituto Tecnológico de San Luis Potosí, con especialidad en **Ciberseguridad** (INTE-CBS-2021-01) y enfocado en **Operaciones de Seguridad (SOC) e Ingeniería de Detección**.
+¡Bienvenido! Soy estudiante del último semestre de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de San Luis Potosí, con especialidad en Ciberseguridad (INTE-CBS-2021-01) y enfocado en Operaciones de Seguridad (SOC) e Ingeniería de Detección.
 
 ---
 
@@ -41,7 +41,7 @@
 
 * 🛡️ **Wazuh SIEM & Threat Intelligence:** [Ver Reporte PDF](Reporte_Wazuh_SIEM_VirusTotal.pdf)
 * 📊 **Monitoreo con Zabbix:** [Ver Reporte PDF](Laboratorio_Monitoreo_Zabbix.pdf)
-* 🦈 **Análisis Forense con Wireshark/tcpdump:** [Ver Reporte PDF](Análisis_de_Tráfico_Wireshark_tcpdump.pdf)
+* 🦈 **Análisis Forense con Wireshark/tcpdump:** [Ver Reporte PDF](Analisis_de_Trafico_Wireshark_tcpdump.pdf)
 * 🚨 **Ingeniería de Detección con Suricata NIDS:** [Ver Reporte PDF](Implementacion_Suricata_NIDS_Wazuh.pdf)
 
 ---
