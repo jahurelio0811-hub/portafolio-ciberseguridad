@@ -32,9 +32,8 @@
 * **Telemetría & Triggers:** Creación de disparadores personalizados para uso de CPU (>50% y >15%), monitoreo de memoria RAM y auditoría de reinicios de servicio.
 
 ### 4. Análisis Forense de Tráfico & Inspección de Protocolos
-* **Análisis de Paquetes:** Captura y auditoría con Wireshark, tcpdump y Microsoft Pktmon (ETW).
-* **Evaluación de Protocolos:** Inspección del *Three-Way Handshake* TCP, resolución de consultas DNS y seguimiento de flujos HTTPS/TLS 1.2.
-* 🎥 **Demostración Práctica:** *(Incluye vídeo grabado sobre inspección de paquetes y extracción de objetos HTTP).*
+* **Análisis de Paquetes (PDF):** Captura y auditoría con Wireshark, tcpdump y Microsoft Pktmon (ETW).
+* 🎥 **Demostración Práctica en Video de extracción de objetos HTTP:** [Ver Vídeo en Google Drive: Extracción de Objetos HTTP con Wireshark](https://drive.google.com/file/d/1wJ6kFAt55ah4vLdda-uHfyU3VTaHNlVg/view?usp=sharing)
 
 ---
 
