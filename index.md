@@ -39,10 +39,10 @@
 
 ## 📄 Reportes Técnicos de Laboratorio (PDF)
 
-* 🛡️ **Wazuh SIEM & Threat Intelligence:** [Ver Reporte PDF](./Aurelio_Hernandez_Reporte_Wazuh_SIEM_VirusTotal.pdf)
-* 📊 **Monitoreo con Zabbix 7.0:** [Ver Reporte PDF](./Aurelio_Hernandez_Laboratorio_Monitoreo_Zabbix7.pdf)
-* 🦈 **Análisis Forense con Wireshark/tcpdump:** [Ver Reporte PDF](./Aurelio_Hernandez_Analisis_Trafico_Wireshark_tcpdump.pdf)
-* 🚨 **Ingeniería de Detección con Suricata NIDS:** [Ver Reporte PDF](./Aurelio_Hernandez_Implementacion_Suricata_NIDS_Wazuh.pdf)
+* 🛡️ **Wazuh SIEM & Threat Intelligence:** [Ver Reporte PDF](Reporte_Wazuh_SIEM_VirusTotal.pdf)
+* 📊 **Monitoreo con Zabbix:** [Ver Reporte PDF](Laboratorio_Monitoreo_Zabbix.pdf)
+* 🦈 **Análisis Forense con Wireshark/tcpdump:** [Ver Reporte PDF](Análisis_de_Tráfico_Wireshark_tcpdump.pdf)
+* 🚨 **Ingeniería de Detección con Suricata NIDS:** [Ver Reporte PDF](Implementacion_Suricata_NIDS_Wazuh.pdf)
 
 ---
 
