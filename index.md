@@ -46,7 +46,7 @@
 
 ---
 
-## 📬 Contacto & Enlaces
+## 📬 Contacto 
 * **Correo:** Jahurelio0811@gmail.com
 * **Ubicación:** San Luis Potosí, México
 
