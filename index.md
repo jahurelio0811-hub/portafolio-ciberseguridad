@@ -1,4 +1,4 @@
-# Portafolio Técnico: Ciberseguridad & Monitoreo de Infraestructura — José Aurelio Hernández Mendoza
+## Sobre mí y este portafolio
 
 ¡Bienvenido! Soy estudiante del último semestre de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de San Luis Potosí, con especialidad en Ciberseguridad (INTE-CBS-2021-01) y enfocado en Operaciones de Seguridad (SOC) e Ingeniería de Detección.
 
